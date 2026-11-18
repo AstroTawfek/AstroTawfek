@@ -17,9 +17,9 @@
 ## 👨‍💻 About me
 
 - 🎓 CSE graduate from **Daffodil International University**, Dhaka, Bangladesh 🇧🇩
-- 🔐 My work is around **blockchain security, federated learning, and medical AI**
+- 🔐 My work is around **blockchain security, federated learning, and AI**
 - 🛰️ My long-term interest is **aerospace cybersecurity** (and yes, I love astrophysics too)
-- 🎯 My goal: work remotely as a **blockchain lead / security architect**, then do a **Master's → PhD**
+- 🎯 My goal: work remotely as a **blockchain lead / security architect**
 - 📝 I am writing research papers for **Q1 / SCIE-indexed** journals and good conferences
 - 🧰 I work on **Kali Linux** and **Parrot OS**
 
@@ -87,20 +87,6 @@ flowchart LR
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 **Also:** XGBoost · Seq2Seq / LSTM · Cisco Packet Tracer · MariaDB / XAMPP · Tailwind / DaisyUI · Arduino
-
----
-
-## 🌱 Right now I am learning
-
-My **8-month Blockchain Lead & Security Expert roadmap** is my daily plan.
-
-<!-- ✏️ EDIT: match these lines with your real roadmap -->
-- Solidity and how the EVM works inside
-- Smart contract security: common bugs, Foundry testing, Slither, fuzzing
-- Practicing on audit contests and CTF-style wargames
-- Zero-knowledge basics and cross-chain security
-
-I will add public write-ups and audit practice here as I finish them.
 
 ---
 
